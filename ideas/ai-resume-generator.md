@@ -1,4 +1,4 @@
-## AI Health & Fitness Agent
+## AI Health & Fitness Agent 🏋️‍♂️🍎
 
 ### Description:
 A multi-agent system that collects user health data, fitness goals, and wearable insights to generate personalized workout plans, nutrition guides, and daily health alerts. The agent adapts over time as the user’s performance and habits change. Ideal for beginners and intermediate fitness users.
