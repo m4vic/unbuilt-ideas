@@ -1,10 +1,17 @@
-# AI Resume & Cover Letter Generator
+## AI Health & Fitness Agent
 
-## Description:
-A tool that crafts tailored resumes and cover letters based on job descriptions and the user’s writing style. It optimizes keywords, tone, and formatting automatically for each application.
+### Description:
+A multi-agent system that collects user health data, fitness goals, and wearable insights to generate personalized workout plans, nutrition guides, and daily health alerts. The agent adapts over time as the user’s performance and habits change. Ideal for beginners and intermediate fitness users.
 
-## Why It’s Interesting:
-Personalized applications dramatically increase interview chances.
+### Tech Stack:
+
+CrewAI or LangChain Agents
+Groq / OpenAI API
+FastAPI backend
+Wearable APIs (Fitbit, Apple Health, Google Fit)
+
+### Why It’s Interesting:
+Health personalization is in high demand — AI makes expert-level coaching accessible.
 
 Credit:
 If you build this, mention neuralchemy-labs and thank me later.
