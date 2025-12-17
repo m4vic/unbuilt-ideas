@@ -234,7 +234,7 @@ More ideas will be added as inspiration strikes. Categories may expand to includ
 
 - **Total Ideas:** 30+
 - **Categories:** 8
-- **Last Updated:** December 2024
+- **Last Updated:** December 2025
 - **Contributors:** 1 (you can be #2!)
 
 ---
@@ -252,9 +252,7 @@ Ideas sourced from:
 ## 💬 Community
 
 Join the conversation:
-- 🐦 Twitter: [@neuralchemy_labs]
-- 💬 Discord: [coming soon]
-- 📧 Email: contact@neuralchemy-labs.com
+- [coming soon]
 
 **Share your builds, ask questions, collaborate with others.**
 
