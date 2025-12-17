@@ -70,7 +70,6 @@ These ideas are great — but outside our current roadmap. Build them yourself!
 
 ### **🎨 Creative Tools & Content**
 - [`scriptwriting-ai-coauthor.md`](ideas/scriptwriting-ai-coauthor.md)
-- [`therapeutic-robot-companion.md`](ideas/therapeutic-robot-companion.md)
 
 ### **📊 Analytics & Intelligence**
 - [`idealens-trend-scanner.md`](ideas/idealens-trend-scanner.md)
