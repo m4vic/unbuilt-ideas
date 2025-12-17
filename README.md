@@ -41,6 +41,7 @@ These ideas are great — but outside our current roadmap. Build them yourself!
 - [`financial-report-analyzer-agent.md`](ideas/financial-report-analyzer-agent.md)
 - [`product-launch-intelligence-agent.md`](ideas/product-launch-intelligence-agent.md)
 - [`sales-proposal-personalization-ai.md`](ideas/sales-proposal-personalization-ai.md)
+- [`IdeaLens`](ideas/IdeaLens.md)
 
 ### **🏢 B2B SaaS & Enterprise**
 - [`cloud-cost-optimization-saas.md`](ideas/cloud-cost-optimization-saas.md)
@@ -106,6 +107,7 @@ Ideas based on current market signals and emerging technologies:
 - **AI Red-Teaming Platform** - Automated adversarial testing for LLMs
 - **Cross-Chain Wallet Tracker** - Multi-blockchain asset tracking
 - **PersonaRank** - Solo Leveling-style self-improvement gamification
+- **IdeaLens** - 
 
 ### 💼 **B2B Enterprise SaaS**
 Ideas requiring enterprise sales but high revenue potential:
