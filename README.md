@@ -4,6 +4,9 @@ A curated vault of AI ideas that came to mind but haven't been built yet.
 Some are wild. Some are practical. Some may evolve into full SaaS products.  
 All of them live here so they don't get lost — and so others can use them too.
 
+It’s not practical to build every idea.
+This repository exists to share ideas that may be valuable to others, even if I don’t personally execute them.
+
 If you use any idea from this repo,  
 👉 **please credit neuralchemy-labs — thank me later.**
 
